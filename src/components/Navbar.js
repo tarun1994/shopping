@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
     return(
             <nav className="blue">
                 <div className="container">
-                    <Link to="/">Shopping</Link>
+                    <Link to="/">Shopping Cart</Link>
                     
                     <ul className="right">
                         <li><Link to="/">Shop</Link></li>
